@@ -13,8 +13,8 @@ import boto3
 import pandas as pd
 
 AWS_S3_BUCKET = "prebuiltnodes"
-AWS_ACCESS_KEY_ID = "AKIAQ53INSGAWRSXLBOU"
-AWS_SECRET_ACCESS_KEY = "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"
+AWS_ACCESS_KEY_ID = "****"
+AWS_SECRET_ACCESS_KEY = "****"
 
 
 s3_client = boto3.client(
