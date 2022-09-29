@@ -15,7 +15,6 @@ import tweepy
 from textblob import TextBlob
 import pandas as pd
 import io
-import os
 import boto3
 
 ####### API KEYS FOR TWITTER ############
